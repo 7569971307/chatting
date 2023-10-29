@@ -1,0 +1,1 @@
+Install Node modules ans u can use this app locally, if you wanna clone and make updation in it
